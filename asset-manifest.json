@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/space_vue/static/css/main.3ec19d7d.css",
+    "main.js": "/space_vue/static/js/main.7c44201e.js",
+    "static/js/27.8c28d9ac.chunk.js": "/space_vue/static/js/27.8c28d9ac.chunk.js",
+    "index.html": "/space_vue/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3ec19d7d.css",
+    "static/js/main.7c44201e.js"
+  ]
+}
